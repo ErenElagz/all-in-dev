@@ -27,26 +27,26 @@ Make this e-book your go-to resource. Elevate your skills effortlessly. 🚀
 
 ## 🎯 Key Features
 - **Curated Categories**:
-  - APIs: Tools, libraries, and resources for API development and integration.
-  - Cloud Platforms ☁️: Platforms like AWS, Azure, and Google Cloud with tutorials and tools.
-  - Code Sharing 🔗: Platforms and tips for sharing and collaborating on code effectively.
-  - Community 👥: Resources for joining and engaging with developer and design communities.
-  - Community Building and Networking 🌐: Guides and platforms to help you grow and connect with professional networks.
-  - Content Management Systems (CMS) 🖋️: Tools and tutorials for popular CMS like WordPress, Joomla, and Drupal.
-  - Cyber Security & Networking 🔒: Resources for learning security practices and networking fundamentals.
-  - Design Tools & Softwares 🎨: Tools for UI/UX, graphic design, and prototyping like Figma, Sketch, and Adobe XD.
-  - DevOps ⚙️: Best practices and tools for continuous integration, deployment, and automation.
-  - Game Development 🎮: Engines, frameworks, and resources for creating games like Unity, Unreal Engine, and Godot.
-  - GitHub 🐙: Tips and tricks for using GitHub effectively in your projects.
-  - JS Libraries 📚: Popular JavaScript libraries with guides and examples for frontend and backend development.
-  - Learn & Tutorials 📖: E-books, online courses, and video tutorials for learning new skills.
-  - Mobile Development 📱: Tools, frameworks, and tutorials for building iOS and Android apps.
-  - Monetization 💰: Guides on monetizing apps, websites, and other projects.
-  - Programming Languages 💻: Resources for languages like Python, Java, JavaScript, and more.
-  - Project Management 📋: Tools and frameworks for managing software projects efficiently.
-  - Useful Tools & Softwares 🔧: A collection of tools to streamline your workflow and productivity.
-  - Web Development 🌐: Comprehensive resources for frontend, backend, and full-stack web development.
-  - Web Templates 🧩: Ready-to-use website templates for rapid prototyping and deployment.
+  -  **APIs**: Tools, libraries, and resources for API development and integration.
+  -  **Cloud Platforms ☁️**: Platforms like AWS, Azure, and Google Cloud with tutorials and tools.
+  -  **Code Sharing 🔗**: Platforms and tips for sharing and collaborating on code effectively.
+  -  **Community 👥**: Resources for joining and engaging with developer and design communities.
+  -  **Community Building and Networking 🌐**: Guides and platforms to help you grow and connect with professional networks.
+  -  **Content Management Systems (CMS) 🖋️**: Tools and tutorials for popular CMS like WordPress, Joomla, and Drupal.
+  -  **Cyber Security & Networking 🔒**: Resources for learning security practices and networking fundamentals.
+  -  **Design Tools & Softwares 🎨**: Tools for UI/UX, graphic design, and prototyping like Figma, Sketch, and Adobe XD.
+  -  **DevOps ⚙️**: Best practices and tools for continuous integration, deployment, and automation.
+  -  **Game Development 🎮**: Engines, frameworks, and resources for creating games like Unity, Unreal Engine, and Godot.
+  -  **GitHub 🐙**: Tips and tricks for using GitHub effectively in your projects.
+  -  **JS Libraries 📚**: Popular JavaScript libraries with guides and examples for frontend and backend development.
+  -  **Learn & Tutorials 📖**: E-books, online courses, and video tutorials for learning new skills.
+  -  **Mobile Development 📱**: Tools, frameworks, and tutorials for building iOS and Android apps.
+  -  **Monetization 💰**: Guides on monetizing apps, websites, and other projects.
+  -  **Programming Languages 💻**: Resources for languages like Python, Java, JavaScript, and more.
+  -  **Project Management 📋**: Tools and frameworks for managing software projects efficiently.
+  -  **Useful Tools & Softwares 🔧**: A collection of tools to streamline your workflow and productivity.
+  -  **Web Development 🌐**: Comprehensive resources for frontend, backend, and full-stack web development.
+  -  **Web Templates 🧩**: Ready-to-use website templates for rapid prototyping and deployment.
 
 
 
